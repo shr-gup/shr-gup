@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shreya Gupta, currently a student at BITS Pilani, Hyderabad Campus.
 - 👀 I’m interested in Electronics, particularly Digital aspect of electronics.
-- ⚡ I’m currently learning VLSI architecture.
+- ⚡ I’m currently learning VLSI design architecture.
 - 📫 You can reach me via <a href="mailto:guptashreya7531@gmail.com" target="_blank">email</a>. My Linkedin profile if right <a href="https://www.linkedin.com/in/g-shreya" target="_blank">here</a>.     
